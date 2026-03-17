@@ -1,7 +1,7 @@
 # Welcome to Room 1009 🚪
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Room%201009&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=000000&height=250&section=header&text=Room%201009&fontSize=80&animation=fadeIn&fontColor=FF4444" alt="Room 1009" />
 </p>
 
 ### "나가는 문은, 당신이 들어왔던 그 문이 아닙니다."
